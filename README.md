@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **my personal site**
 
-- 🌱 I’m currently learning **DSA, React Native**
+- 🌱 I’m currently learning **DSA and React JS**
 
 - 👯 I’m looking to collaborate on **Front-End Projects**
 
