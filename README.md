@@ -12,6 +12,8 @@
 
 - 👯 I’m looking to collaborate on **Front-End Projects**
 
+- 👨‍💻 All of my projects are available at [hridxyz.me](hridxyz.me)
+
 - 📝 I regularly write articles on [https://twitter.com/bhagtanihriday](https://twitter.com/bhagtanihriday)
 
 - 💬 Ask me about **Website Development**
