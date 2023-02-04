@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **Front-End Projects**
 
-- 👨‍💻 All of my projects are available at [hridxyz.me](hridxyz.me)
+- 👨‍💻 All of my projects are available at https://hridxyz.me/
 
 - 📝 I regularly write articles on [https://twitter.com/bhagtanihriday](https://twitter.com/bhagtanihriday)
 
