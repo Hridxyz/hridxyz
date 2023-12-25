@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hriday Bhagtani</h1>
-<h3 align="center">Web Developer | Graphic Designer | UI/UX Enthusiast</h3>
+<h3 align="center">B.Tech Student at MIT | Enthusiast in Machine Learning, Web Dev & UI/UX Design</h3>
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" width="500px">
@@ -12,18 +12,18 @@
 </p>
 
 ## About Me
-🔭 I’m currently working on **improving my personal site**.  
-🌱 I’m currently learning **Data Structures & Algorithms and React.js**.  
-👯 I’m looking to collaborate on **innovative frontend projects**.  
-📝 I write articles on [technology and design](https://twitter.com/bhagtanihriday).  
-💬 Ask me about **web development and design**.  
-📫 Reach out to me at **bhagtanihriday08@gmail.com**.
+🔭 Currently working on projects like **Alex** (AI Personal Assistant) and **My Little Genie** (E-commerce platform).  
+🌱 Learning **React.js** to enhance my front-end development skills.  
+👯 Keen on collaborating in **web development and UI/UX design projects**.  
+💬 Happy to discuss **Machine Learning, Web Development, and UI/UX Design**.  
+📫 Reach me at **hridayparas@gmail.com**.
 
 ## My Work
 <p align="center">
-  <a href="https://hridxyz.me/">👨‍💻 Check out my projects!</a><br>
-  <a href="https://drive.google.com/drive/folders/1jNu1MMGvfnml6DWVETf-xQZIqG5t15PG?usp=sharing">📄 View my resume.</a>
+  <a href="https://hridxyz.me/">👨‍💻 View my projects!</a><br>
+  <a href="https://docs.google.com/document/d/1Ofr3SP3ZDAESPNlugQO2Nl2Prs8D-ei7ToGtAYOWpws/edit?usp=sharing">📄 Check out my resume.</a>
 </p>
+
 
 ## Let's Connect
 <p align="center">
@@ -34,10 +34,20 @@
 
 ## Languages and Tools
 <p align="center">
-  <!-- Icons for different skills -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/adobeillustrator/adobeillustrator-plain.svg" alt="Adobe Illustrator" width="40" height="40"/>
   <!-- Add other icons similarly -->
 </p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hridxyz&show_icons=true&locale=en&layout=compact" alt="hridxyz" />
@@ -45,5 +55,11 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hridxyz&show_icons=true&locale=en" alt="hridxyz" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hridxyz&show_icons=true&include_all_commits=true&count_private=true&theme=radical" alt="Hriday's GitHub Stats" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hridxyz&theme=radical" alt="Hriday's GitHub Streak" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hridxyz&layout=compact&theme=radical" alt="Hriday's Most Used Languages" width="400"/>
 </p>
 
