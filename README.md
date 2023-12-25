@@ -2,7 +2,7 @@
 <h3 align="center" style="background-color:#E6E6FA;">B.Tech Student at MIT | Enthusiast in Machine Learning, Web Dev & UI/UX Design</h3>
 
 <p align="center">
-  <img src="https://giphy.com/embed/oSjA9HcU0iIXm" width="40%" height="40%">
+  ![Coding GIF](https://media.giphy.com/media/oSjA9HcU0iIXm/giphy.gif)
 </p>
 
 ## About Me
