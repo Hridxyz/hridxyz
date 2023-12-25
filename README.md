@@ -2,7 +2,8 @@
 <h3 align="center">B.Tech Student at MIT | Enthusiast in Machine Learning, Web Dev & UI/UX Design</h3>
 
 <img src = "https://github.com/Hridxyz/hridxyz/assets/96878347/dbe61e08-d0c7-408d-926c-9531ddc80202">
-**## About Me**
+
+## About Me
 🔭 Currently working on projects like **Alex** (AI Personal Assistant) and **My Little Genie** (E-commerce platform).  
 🌱 Sharpening my problem-solving skills with a focus on **Data Structures and Algorithms in Java**.  
 👯 Keen on collaborating in **web development and UI/UX design projects**.  
