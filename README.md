@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hriday Bhagtani</h1>
 <h3 align="center">B.Tech Student at MIT | Enthusiast in Machine Learning, Web Dev & UI/UX Design</h3>
 
-<p align="center">
-  <img src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" width="500px">
-</p>
+<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/oSjA9HcU0iIXm" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/set-s-oSjA9HcU0iIXm">via GIPHY</a></p>
 
 # About Me
 🔭 Currently working on projects like **Alex** (AI Personal Assistant) and **My Little Genie** (E-commerce platform).  
