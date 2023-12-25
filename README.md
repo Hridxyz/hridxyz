@@ -5,12 +5,6 @@
   <img src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" width="500px">
 </p>
 
-<p align="center">
-  <a href="https://twitter.com/bhagtanihriday" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/bhagtanihriday?logo=twitter&style=for-the-badge" alt="bhagtanihriday" />
-  </a>
-</p>
-
 # About Me
 🔭 Currently working on projects like **Alex** (AI Personal Assistant) and **My Little Genie** (E-commerce platform).  
 🌱 Sharpening my problem-solving skills with a focus on **Data Structures and Algorithms in Java**.  
