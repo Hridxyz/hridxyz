@@ -44,29 +44,9 @@
 
 ## GitHub Statistics
 <p align="center">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hridxyz&layout=compact&theme=radical" alt="Hriday's Most Used Languages" width="400"/>
   <img src="https://github-readme-stats.vercel.app/api?username=hridxyz&show_icons=true&include_all_commits=true&count_private=true&theme=radical" alt="Hriday's GitHub Stats" width="400"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hridxyz&theme=radical" alt="Hriday's GitHub Streak" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hridxyz&layout=compact&theme=radical" alt="Hriday's Most Used Languages" width="400"/>
-  ## 🚀 More About My GitHub Journey
-<br>
-  <!-- GitHub Profile Trophy -->
-  <img src="https://github-profile-trophy.vercel.app/?username=hridxyz&theme=algolia" alt="GitHub Profile Trophy" />
-<br>
-  <!-- GitHub Activity Graph -->
-  <img src="https://activity-graph.herokuapp.com/graph?username=hridxyz&theme=xcode" alt="GitHub Activity Graph" />
-<br>
-  <!-- GitHub Profile Views Counter -->
-  <img src="https://komarev.com/ghpvc/?username=hridxyz&color=blueviolet" alt="GitHub Profile Views Counter" />
-<br>
-  <!-- GitHub Extra Pins -->
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hridxyz&repo=repository-name&theme=buefy" alt="GitHub Extra Pins" />
-<br>
-  <!-- GitHub Metrics -->
-  <img src="https://metrics.lecoq.io/hridxyz" alt="GitHub Metrics" />
-  <br>
-
-  <!-- Dynamic Quote -->
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="GitHub Dynamic Quote" />
 </p>
 
 
