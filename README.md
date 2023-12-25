@@ -71,6 +71,8 @@
   <!-- Dynamic Quote -->
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="GitHub Dynamic Quote" />
 </p>
-
+<p align="center">
+  <img src="https://tenor.com/bqrUA.gif">
+</p>
 </p>
 
