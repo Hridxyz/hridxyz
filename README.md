@@ -1,14 +1,15 @@
 <h1 align="center">Hi 👋, I'm Hriday Bhagtani</h1>
-<h3 align="center">B.Tech Student at MIT | Enthusiast in Machine Learning, Web Dev & UI/UX Design</h3>
+<h3 align="center" style="background-color:#E6E6FA;">B.Tech Student at MIT | Enthusiast in Machine Learning, Web Dev & UI/UX Design</h3>
 
-<img src = "https://github.com/Hridxyz/hridxyz/assets/96878347/dbe61e08-d0c7-408d-926c-9531ddc80202">
+<p align="center">
+  <img src="https://giphy.com/embed/oSjA9HcU0iIXm" width="40%" height="40%">
+</p>
 
 ## About Me
 🔭 Currently working on projects like **Alex** (AI Personal Assistant) and **My Little Genie** (E-commerce platform).  
 🌱 Sharpening my problem-solving skills with a focus on **Data Structures and Algorithms in Java**.  
 👯 Keen on collaborating in **web development and UI/UX design projects**.  
 💬 Discuss with me about **efficient algorithms, complex data structures, and innovative web solutions**.  
-📫 Reach me at **hridayparas@gmail.com**.
 
 ## My Work
 <p align="center">
@@ -16,13 +17,13 @@
   <a href="https://docs.google.com/document/d/1Ofr3SP3ZDAESPNlugQO2Nl2Prs8D-ei7ToGtAYOWpws/edit?usp=sharing">📄 Check out my resume.</a>
 </p>
 
-
 ## Let's Connect
 <p align="center">
   <a href="https://twitter.com/bhagtanihriday" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/hridaybhagtani" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
   <!-- Add other social media links similarly -->
 </p>
+
 
 ## Languages and Tools
 <p align="center">
@@ -46,5 +47,30 @@
   <img src="https://github-readme-stats.vercel.app/api?username=hridxyz&show_icons=true&include_all_commits=true&count_private=true&theme=radical" alt="Hriday's GitHub Stats" width="400"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hridxyz&theme=radical" alt="Hriday's GitHub Streak" width="400"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hridxyz&layout=compact&theme=radical" alt="Hriday's Most Used Languages" width="400"/>
+  ## 🚀 More About My GitHub Journey
+
+<p align="center">
+  <!-- GitHub Profile Trophy -->
+  <img src="https://github-profile-trophy.vercel.app/?username=hridxyz&theme=algolia" alt="GitHub Profile Trophy" />
+
+  <!-- GitHub Activity Graph -->
+  <img src="https://activity-graph.herokuapp.com/graph?username=hridxyz&theme=xcode" alt="GitHub Activity Graph" />
+
+  <!-- GitHub Profile Views Counter -->
+  <img src="https://komarev.com/ghpvc/?username=hridxyz&color=blueviolet" alt="GitHub Profile Views Counter" />
+
+  <!-- GitHub Extra Pins -->
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hridxyz&repo=repository-name&theme=buefy" alt="GitHub Extra Pins" />
+
+  <!-- GitHub Metrics -->
+  <img src="https://metrics.lecoq.io/hridxyz" alt="GitHub Metrics" />
+
+  <!-- Wakatime Week Stats -->
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=hridxyz&layout=compact&theme=light" alt="Wakatime Week Stats" />
+
+  <!-- Dynamic Quote -->
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="GitHub Dynamic Quote" />
+</p>
+
 </p>
 
