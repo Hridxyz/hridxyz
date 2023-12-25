@@ -49,7 +49,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hridxyz&layout=compact&theme=radical" alt="Hriday's Most Used Languages" width="400"/>
   ## 🚀 More About My GitHub Journey
 
-<p align="center">
   <!-- GitHub Profile Trophy -->
   <img src="https://github-profile-trophy.vercel.app/?username=hridxyz&theme=algolia" alt="GitHub Profile Trophy" />
 
@@ -71,8 +70,5 @@
   <!-- Dynamic Quote -->
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="GitHub Dynamic Quote" />
 </p>
-<p align="center">
-  <img src="https://tenor.com/bqrUA.gif">
-</p>
-</p>
+
 
