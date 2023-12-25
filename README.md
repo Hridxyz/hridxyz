@@ -11,11 +11,11 @@
   </a>
 </p>
 
-## About Me
+# About Me
 🔭 Currently working on projects like **Alex** (AI Personal Assistant) and **My Little Genie** (E-commerce platform).  
-🌱 Learning **React.js** to enhance my front-end development skills.  
+🌱 Sharpening my problem-solving skills with a focus on **Data Structures and Algorithms in Java**.  
 👯 Keen on collaborating in **web development and UI/UX design projects**.  
-💬 Happy to discuss **Machine Learning, Web Development, and UI/UX Design**.  
+💬 Discuss with me about **efficient algorithms, complex data structures, and innovative web solutions**.  
 📫 Reach me at **hridayparas@gmail.com**.
 
 ## My Work
@@ -44,19 +44,12 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/adobeillustrator/adobeillustrator-plain.svg" alt="Adobe Illustrator" width="40" height="40"/>
+
   <!-- Add other icons similarly -->
 </p>
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hridxyz&show_icons=true&locale=en&layout=compact" alt="hridxyz" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hridxyz&show_icons=true&locale=en" alt="hridxyz" />
-</p>
-
+## GitHub Statistics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hridxyz&show_icons=true&include_all_commits=true&count_private=true&theme=radical" alt="Hriday's GitHub Stats" width="400"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hridxyz&theme=radical" alt="Hriday's GitHub Streak" width="400"/>
