@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hriday Bhagtani</h1>
 <h3 align="center">B.Tech Student at MIT | Enthusiast in Machine Learning, Web Dev & UI/UX Design</h3>
 
-<img src = "https://giphy.com/embed/oSjA9HcU0iIXm">
+<img src = "[https://giphy.com/embed/oSjA9HcU0iIXm](https://media1.tenor.com/m/GfSX-u7VGM4AAAAC/coding.gif)">
 
 # About Me
 🔭 Currently working on projects like **Alex** (AI Personal Assistant) and **My Little Genie** (E-commerce platform).  
