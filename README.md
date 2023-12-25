@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hriday Bhagtani</h1>
 <h3 align="center">B.Tech Student at MIT | Enthusiast in Machine Learning, Web Dev & UI/UX Design</h3>
 
-<img src = "[https://giphy.com/embed/oSjA9HcU0iIXm](https://media1.tenor.com/m/GfSX-u7VGM4AAAAC/coding.gif)">
+<img src = "https://github.com/Hridxyz/hridxyz/assets/96878347/dbe61e08-d0c7-408d-926c-9531ddc80202">
 https://media1.tenor.com/m/GfSX-u7VGM4AAAAC/coding.gif![image](https://github.com/Hridxyz/hridxyz/assets/96878347/dbe61e08-d0c7-408d-926c-9531ddc80202)
 
 # About Me
