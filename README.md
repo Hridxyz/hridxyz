@@ -60,6 +60,4 @@
 </p>
 
 
-## My Progress
-<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/657ff32b5145316d251c64c8?variant=dark" alt="roadmap.sh"/></a>
 
