@@ -6,9 +6,9 @@
 </p>
 
 ## About Me
-🔭 Completed work on **Alex** (AI Personal Assistant).  
+🔭 Currently working on **T20 Cricket World Cup Analytics**.
 🌱 Focusing on **Data Structures and Algorithms in Java**.  
-👯 Keen on collaborating in **web development and UI/UX design projects**.  
+👯 Keen on collaborating in **Data Analytics and Development**.  
 💬 Discuss with me about **efficient algorithms, complex data structures, and innovative web solutions**.  
 
 ## My Work
