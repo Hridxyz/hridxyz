@@ -1,63 +1,41 @@
-<h1 align="center">Hi 👋, I'm Hriday Bhagtani</h1>
-<h3 align="center" style="background-color:#E6E6FA;">B.Tech Student at MIT | Enthusiast in Web Dev & UI/UX Design</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXF4NHhuazN1eDhrbmxhcmZneXIxb3N6NXY1cWViMjJ4eDhha2NhNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oSjA9HcU0iIXm/giphy.gif">
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Firmware+Engineer+%40+NXP+Semiconductors;Embedded+C+%7C+USB+Type-C+Power+Delivery;Silicon+Validation+%26+ROM+Patches;Building+in+C%2B%2B+%C2%B7+Linux+Drivers+%C2%B7+RTOS+%C2%B7+UEFI)](https://git.io/typing-svg)
 
-## About Me
-🔭 Currently working on **T20 Cricket World Cup Analytics**.
-🌱 Focusing on **Data Structures and Algorithms in Java**.  
-👯 Keen on collaborating in **Data Analytics and Development**.  
-💬 Discuss with me about **efficient algorithms, complex data structures, and innovative web solutions**.  
+**Firmware/Middleware Engineer working close to the hardware - Embedded C, USB Type-C Power Delivery, silicon bring-up. Bengaluru, India.**
 
-## My Work
-<p align="center">
-  <a href="https://hridxyz.me/">👨‍💻 View my projects!</a><br>
-  <a href="https://docs.google.com/document/d/1Ofr3SP3ZDAESPNlugQO2Nl2Prs8D-ei7ToGtAYOWpws/edit?usp=sharing">📄 Check out my resume.</a>
-</p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-hridxyz.me-2E9EF7?style=flat-square&logo=google-chrome&logoColor=white)](https://hridxyz.me)
 
-## Let's Connect
-<p align="center">
-  <a href="https://twitter.com/bhagtanihriday" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="40" width="40" /></a>  
-  <a href="mailto:hridayparas@gmail.com">
-    <img src="https://github.com/Hridxyz/hridxyz/assets/96878347/0f991469-2940-4827-90aa-569d81b9dddb" height="40" width="40">
-  </a>  
-  <a href="https://linkedin.com/in/hridaybhagtani" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" /></a>
-</p>
+</div>
 
-## Languages and Tools
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
-</p>
+## What I do
 
-## GitHub Statistics
-<p align="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hridxyz&layout=compact&theme=radical" alt="Hriday's Most Used Languages" width="400"/>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=hridxyz&show_icons=true
+- Develop and validate **USB Type-C Power Delivery firmware** in Embedded C - ROM patches, I2C/GPIO interfaces, silicon bring-up
+- Built a **Python test-automation framework** making firmware validation faster and repeatable
+- Leveling up toward firmware design: **modern C++, Linux kernel & device drivers, RTOS, UEFI/BIOS**
 
+## Tech stack
 
+<div align="center">
 
-## GitHub Statistics
-<p align="center">
-   
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=hridxyz&show_icons=true&include_all_commits=true&count_private=true&theme=radical" alt="Hriday's GitHub Stats" width="400"/>
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hridxyz&theme=radical" alt="Hriday's GitHub Streak" width="400"/>
-  <br>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="GitHub Dynamic Quote" />
-</p>
+[![Skills](https://skillicons.dev/icons?i=c,cpp,python,linux,git,github,bash,vscode&theme=dark)](https://skillicons.dev)
 
+</div>
 
+## Selected projects
 
+<div align="center">
+
+[![SecureChatC](https://img.shields.io/badge/SecureChatC-Encrypted_chat_server_in_C-2E9EF7?style=for-the-badge&logo=c&logoColor=white)](https://github.com/Hridxyz/SecureChatC)
+[![Smart-WasteSense](https://img.shields.io/badge/Smart--WasteSense-LPC1768_embedded_system-2E9EF7?style=for-the-badge&logo=embedded&logoColor=white)](https://github.com/Hridxyz/Smart-WasteSense)
+
+</div>
+
+**SecureChatC** - Multi-client chat server in C: encrypted communication, private & group messaging, message history.
+**Smart-WasteSense** - Touchless embedded waste-management system: LPC1768 MCU + HC-SR04 ultrasonic sensing.
+
+## Background
+
+B.Tech, Electronics & Communication Engineering - Manipal, 2021-2025
+Now: Firmware/Middleware Engineer @ NXP Semiconductors, Bengaluru
+Next: firmware & embedded design - C++, Linux kernel/drivers, RTOS, UEFI/BIOS
