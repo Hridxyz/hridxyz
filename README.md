@@ -33,11 +33,14 @@
 
 </div>
 
-**SecureChatC** - Multi-client chat server in C: encrypted communication, private & group messaging, message history.  
+**SecureChatC** - Multi-client chat server in C: encrypted communication, private & group messaging, message history.
+
 **Smart-WasteSense** - Touchless embedded waste-management system: LPC1768 MCU + HC-SR04 ultrasonic sensing.
 
 ## Background
 
-B.Tech, Electronics & Communication Engineering - Manipal, 2021-2025  
-Now: Firmware/Middleware Engineer @ NXP Semiconductors, Bengaluru  
+B.Tech, Electronics & Communication Engineering - Manipal, 2021-2025
+
+Now: Firmware/Middleware Engineer @ NXP Semiconductors, Bengaluru
+
 Next: firmware design in embedded and power systems
